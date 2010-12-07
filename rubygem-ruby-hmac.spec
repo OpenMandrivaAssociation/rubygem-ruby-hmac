@@ -3,7 +3,7 @@
 Summary:	A ruby module that provides a common interface to HMAC functionality
 Name:		rubygem-%{oname}
 Version:	0.4.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	MIT
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
