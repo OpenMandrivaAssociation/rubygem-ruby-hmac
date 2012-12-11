@@ -37,3 +37,17 @@ rm -rf %{buildroot}
 %{ruby_gemdir}/gems/%{oname}-%{version}
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4.0-2mdv2011.0
++ Revision: 614795
+- the mass rebuild of 2010.1 packages
+
+* Wed Feb 03 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.4.0-1mdv2010.1
++ Revision: 500510
+- import rubygem-ruby-hmac
+
+
+* Mon Feb  3 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.4.0-1
+- initial release
